@@ -1,0 +1,26 @@
+body{
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+   
+}
+
+.content{
+    background-color: azure;
+}
+
+img{
+    width: 700px;
+    padding: 20px;
+    border: 50px;
+    border-radius: 100px;
+}
+
+a link{
+    color:aqua
+}
+
+
+a :hover{
+    text-decoration: underline;
+}
